@@ -97,7 +97,7 @@
   },
   "devDependencies": {
     "tsx": "^4.19.0",
-    "vitest": "^4.1.0"
+    "vitest": "^4.1.11"
   },
   "dependencies": {
     "@electron/asar": "^4.3.1",
@@ -118,7 +118,7 @@
     "cors": "^2.8.5",
     "express": ">=4.22.2",
     "express-rate-limit": ">=8.4.1",
-    "fast-uri": "^3.1.6",
+    "fast-uri": "^3.1.9",
     "fs-extra": "^11.2.0",
     "helmet": "^7.2.0",
     "inquirer": "^9.2.0",

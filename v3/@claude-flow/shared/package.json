@@ -41,7 +41,7 @@
     "@types/express": "^4.17.21",
     "@types/node": "^20.0.0",
     "@types/sql.js": "^1.4.9",
-    "vitest": "^4.1.0"
+    "vitest": "^4.1.11"
   },
   "publishConfig": {
     "access": "public"
